@@ -99,10 +99,11 @@ figure img {
     }
 
     .boxes {
-    grid-template-columns: 1fr;
+        grid-template-columns: 1fr;
     }
 
     figure {
         float: none !important;
+        margin-inline: auto !important;
     }
 }
